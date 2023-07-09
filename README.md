@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sa-shaheer-ali
 - 👀 I’m interested in game developing
-- 🌱 I’m currently studing comuter science
+- 🌱 I’m currently studying comuter science
 - 💞️ will be collaborating with people who can teach me how to write (hello world).
 - 📫 How to reach me: sashaheer.ali10@gmail.com
 
