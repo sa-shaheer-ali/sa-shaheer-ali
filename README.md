@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sa-shaheer-ali
 - 👀 I’m interested in game developing
 - 🌱 I’m currently studying computer science
-- 💞️ will be collaborating with people who can teach me how to write (hello world).
+- 💞️ will be collaborating with people who can teach game developing.
 - 📫 How to reach me: sashaheer.ali10@gmail.com
 
 <!---
